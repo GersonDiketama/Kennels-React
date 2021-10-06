@@ -2,13 +2,14 @@
   "animals": [
     {
       "id": 1,
-      "name": "Doodles",
-      "breed": "Poodle",
+      "img": "../src/images/Dog.jpg",
+      "breed": "Poodlejjjj",
       "locationId": 1,
       "customerId": 1
     },
     {
       "id": 2,
+      "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.nature.com%2Flw800%2Fmagazine-assets%2Fd41586-020-01430-5%2Fd41586-020-01430-5_17977552.jpg&imgrefurl=https%3A%2F%2Fwww.nature.com%2Farticles%2Fd41586-020-01430-5&tbnid=y7-l1LKrhJJZUM&vet=12ahUKEwil9cGV0LTzAhWsgU4HHXpUAz8QMygEegQIARB_..i&docid=fyMNFpQ0-F0fXM&w=800&h=533&q=dogs&ved=2ahUKEwil9cGV0LTzAhWsgU4HHXpUAz8QMygEegQIARB_",
       "name": "Decker",
       "breed": "German Shepherd",
       "locationId": 2,
@@ -20,60 +21,60 @@
       "id": 1,
       "name": "Gerson",
       "address": "7002 Chestnut Ct",
-      "animalId":1,
-      "locationId":1
- 
+      "email": "gerson@ksi.com",
+      "animalId": 1,
+      "locationId": 1
     },
     {
       "id": 2,
       "name": "The boss",
       "address": "7002 Chestnut Ct",
-      "animalId":2,
-      "locationId":2
+      "animalId": 2,
+      "locationId": 2
     },
     {
       "id": 3,
       "name": "David",
       "address": "7002 Chestnut Ct",
-      "animalId":3,
-      "locationId":3
+      "animalId": 3,
+      "locationId": 3
     },
     {
       "id": 4,
       "name": "Chris",
       "address": "7002 Chestnut Ct",
-      "animalId":4,
-      "locationId":4
+      "animalId": 4,
+      "locationId": 4
     }
   ],
   "employees": [
     {
-        "id": 1,
-        "name": "Gerson",
-        "address": "Austin Northeast",
-        "animalId":1,
-        "locationId":1
-      },
+      "id": 1,
+      "name": "Gerson",
+      "address": "Austin Northeast",
+      "animalId": 1,
+      "locationId": 1
+    },
     {
       "id": 2,
       "name": "Andre",
       "address": "Austin Northeast",
-      "animalId":2,
-      "locationId":2
+      "animalId": 2,
+      "locationId": 2
     },
     {
       "id": 3,
       "name": "Francys",
       "address": "Austin Northeast",
-      "animalId":3,
-      "locationId":3
+      "animalId": 3,
+      "locationId": 3
     },
     {
       "id": 4,
       "name": "Jefferson",
       "address": "Austin Northeast",
-      "animalId":4,
-      "locationId":4
+      "animalId": 4,
+      "locationId": 4
     }
   ],
   "locations": [
@@ -86,6 +87,11 @@
       "id": 2,
       "name": "Nashville South",
       "address": "209 Emory Drive"
+    },
+    {
+      "name": "sssss",
+      "address": "qqqqqqqq",
+      "id": 6
     }
   ]
 }
